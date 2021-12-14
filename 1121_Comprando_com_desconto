@@ -1,0 +1,8 @@
+preco = float(input())
+qtd = int(input())
+desconto_fixo = 0.1
+desconto_unidade = 0.01* qtd
+valor_final = preco*qtd
+valor_final_desconto = valor_final - ((desconto_unidade + desconto_fixo)*valor_final)
+print (f'{valor_final:.2f}')
+print (f'{valor_final_desconto:.2f}')

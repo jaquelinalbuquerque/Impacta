@@ -1,0 +1,5 @@
+percurso1 = int(input())
+percurso2 = int(input())
+percurso3 = int(input())
+total_percurso = percurso1 + percurso2 + percurso3
+print (f'{total_percurso} minutos')

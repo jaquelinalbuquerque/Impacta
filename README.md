@@ -1,4 +1,3 @@
 # Impacta
- Atividades realizadas na faculdade
- URI Online Judge
+ Atividades realizadas no URI Online Judge -> Beecrowd
 
